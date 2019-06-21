@@ -1,11 +1,11 @@
-# Your GitHub Learning Lab Repository for Community Starter Kit
+#社区入门工具包的GitHub学习实验室库
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about making your project friendlier for collaboration.
+欢迎来到你的你的GitHub学习实验室课程的存储库。这个存储库将在不同的活动中使用，我将指导您了解如何使您的项目更加友好地进行协作。
 
-Oh! I haven't introduced myself...
+噢!我还没自我介绍.。
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added a pull request for you to check out.
+我是GitHub学习实验室机器人，我在这里帮助您学习和掌握本课程所涵盖的各种主题的旅程。我将使用问题和拉请求评论与您沟通。事实上，我已经为你添加了一个拉力请求。
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+issue tab
 
-I'll meet you over there, can't wait to get started!
+我在那边等你，等不及要开始了！
